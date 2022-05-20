@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+CA4_Transformers/parsbert/
+
+CA4_Transformers/xlm-r/
